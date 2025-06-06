@@ -2,7 +2,10 @@
 
 This project analyzes data from 2019 to May 2024 across multiple hospitals to provide critical insights into hospital operations, patient care, and financial management. The goal is to assist healthcare providers and administrators in making data-driven decisions that enhance efficiency, optimize resources, and improve patient care.
 
-**Interactive Dashboard :** https://public.tableau.com/app/profile/rutuja.jadhav4875/viz/HealthcareSystemDashboard_17388746992120/FinanceDashboard
+**Interactive Dashboard :** 
+[Healthcare System Dashboard](https://public.tableau.com/app/profile/rutuja.jadhav4875/viz/HealthcareSystemDashboard_17388746992120/FinanceDashboard)
+
+The SQL queries regarding various business questions and data preparation for the Tableau dashboard can be found [here](https://github.com/rutuja-jadhav29/HealthOps-Insights/tree/f0428962423ae0cdcb559e11b674787bfabf846b/SQL%20Analysis)
 
 :star: **Key Areas of Analysis:**
 
